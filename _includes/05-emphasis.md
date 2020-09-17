@@ -1,0 +1,1 @@
+I am a graduate from __UMass Amherst__ with a bachelors of science degree in __mathematics__ focused on the fields of _applied mathematics_ and _statistics_. Some of the coding languagees I learned over the past couple of years are _python_, _R_, and _SQL_ to help me get a tart in __data analysis__ and __data science__. 
